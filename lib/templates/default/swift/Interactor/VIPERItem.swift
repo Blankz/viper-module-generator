@@ -5,8 +5,7 @@
 
 import Foundation
 
-struct VIPERItem
-{
+struct VIPERItem {
     /**
     *  Attributes here
     */
